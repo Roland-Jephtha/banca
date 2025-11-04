@@ -232,7 +232,7 @@
   .navbar .navbar-brand {
     padding-top: 12px;
     padding-bottom: 12px;
-    margin-left: 40px;
+    margin-left: 0;
   }
   .navbar-collapse {
     background: #fff;
